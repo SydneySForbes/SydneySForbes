@@ -27,6 +27,6 @@ Building full-stack applications with React and Node.js
 💬 Let's Connect!
 I’m always eager to learn more and collaborate on exciting projects! Feel free to reach out to me:
 
-📧 [Your Email Address] sydneyforbes644@gmail.com
-💼 [Your LinkedIn Profile](https://www.linkedin.com/in/sydneyforbes/)
+📧 sydneyforbes644@gmail.com
+💼 (https://www.linkedin.com/in/sydneyforbes/)
 Thanks for visiting, and I look forward to connecting with you!
