@@ -14,6 +14,7 @@ Frameworks: Node.js, Express.js
 Other: APIs
 
 👩🏾‍💻 Current Projects:
+
 💻 App for the Kennesaw State Rec Center. Colorstack Group project; designing for people who are new to the gym. Backend development using Swift and XCode.
   
 💻 Web application that can assist potential Ford vehicle owners in selecting the most desireable trim level for the vehicle they are interested in.
@@ -21,6 +22,7 @@ Other: APIs
 💻 Honors Research Project on the impact of Machine Learning on database systems.
   
 📈 My Journey:
+
 I’m continuously growing my technical skills and expanding my understanding of software development best practices. This repository is a collection of projects that reflect my learning path and passion for software engineering
 and machine learning. Each project here demonstrates my ability to:
 
