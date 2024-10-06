@@ -1,5 +1,5 @@
 Hi there! 👋 I'm Sydney
-Welcome to my GitHub! I'm currently a Computer Science major at Kennesaw State University. I'm apart of the 5-year accelerated program working toward my Bachelor's and Master's degree with an expected graduation in May 2026. 
+Welcome to my GitHub! I'm currently a Computer Science major at Kennesaw State University. I'm apart of the 5-year accelerated program working toward my Bachelor's and Master's degree. 
 I'm passionate about software engineering and problem-solving, and I love working on projects that challenge me to learn and grow as a developer.
 
 🌟 About Me:
@@ -13,6 +13,13 @@ Tools: Git, GitHub, Postman, Docker
 Frameworks: Node.js, Express.js
 Other: APIs
 
+👩🏾‍💻 Current Projects:
+💻 App for the Kennesaw State Rec Center. Colorstack Group project; designing for people who are new to the gym. Backend development using Swift and XCode.
+  
+💻 Web application that can assist potential Ford vehicle owners in selecting the most desireable trim level for the vehicle they are interested in.
+
+💻 Honors Research Project on the impact of Machine Learning on database systems.
+  
 📈 My Journey:
 I’m continuously growing my technical skills and expanding my understanding of software development best practices. This repository is a collection of projects that reflect my learning path and passion for software engineering
 and machine learning. Each project here demonstrates my ability to:
@@ -23,6 +30,8 @@ and machine learning. Each project here demonstrates my ability to:
 -Apply data structures and algorithms to solve complex problems
 
 Building full-stack applications with React and Node.js
+
+
 
 💬 Let's Connect!
 I’m always eager to learn more and collaborate on exciting projects! Feel free to reach out to me:
